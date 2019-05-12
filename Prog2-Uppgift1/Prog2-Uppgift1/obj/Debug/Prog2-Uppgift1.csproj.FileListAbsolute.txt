@@ -1,0 +1,16 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2-Uppgift1.csprojAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.DetailForm.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.Form1.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2-Uppgift1.csproj.GenerateResource.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2-Uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\bin\Debug\Prog2-Uppgift1.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\bin\Debug\Prog2-Uppgift1.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\bin\Debug\Prog2-Uppgift1.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.ChooseMediaForm.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2-Uppgift1.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2-Uppgift1.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.NewBook.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.NewNewsArticle.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.NewWebsite.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Prog2-Uppgift1\Prog2-Uppgift1\obj\Debug\Prog2_Uppgift1.NewVideoGame.resources
